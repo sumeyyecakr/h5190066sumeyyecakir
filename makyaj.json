@@ -1,0 +1,82 @@
+[
+	{
+		"Adi": "Fondöten",
+		"Aciklama": "Cildi olduğundan daha güzel, daha kusursuz göstermek amacıyla tercih edilen, likit ya da pudra gibi farklı formları bulunan ve kapatıcı etkisi nedeniyle yaygın olarak kullanılan en popüler makyaj ürünlerinden biridir.",
+		"KullanimAlani": "Yüz çevresin de kullanılır.",
+		"RenkSecenekleri": "Beyaz, Açık, Orta, Esmer, Bronz.",
+		"BannerUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/kapaticibanner.jpeg",
+		"LogoUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/foundationicon.png"
+
+		
+	},
+
+	{
+		"Adi": "Ruj(Lipstick)",
+		"Aciklama": "Ruj, dudaklara renk, doku ve koruma uygulayan bir kozmetiktir. Bir çok renk ve ruj türü mevcuttur. Bazı rujlar ayrıca hem renk hem de nem katmak için dudak balmıdır.",
+		"KullanimAlani": "Dudaklar da kullanılır.",
+		"RenkSecenekleri": "Likit, Mat, Pastel.",
+		"BannerUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/rujbanner.jpeg",
+		"LogoUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/rujicon.png"
+	},
+
+	{
+		"Adi": "Rimel",
+		"Aciklama": "Rimel, göz makyajına vurgu yapmak, çarpıcı bir görünüm elde etmek ve etkileyici bakışlarla dikkat çekmek için en çok tercih edilen kozmetik ürünlerinden biri. Bu harika ürün minik bir fırçayla uygulanıyor. Rimelin amacı ise her bir kirpik telinin çok daha dolgun ve uzun görünmesini sağlamak.Böylece gözler daha belirgin bir forma ulaşıyor ve makyajın etkisi artıyor.",
+		"KullanimAlani": "Kirpikler de kullanılır.",
+		"RenkSecenekleri": "Beyaz, Siyah, Kahverengi, Pembe.",
+		"BannerUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/mascarabanner.jpeg",
+		"LogoUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/mascaraicon.png"
+		
+	},
+
+	{
+		"Adi": "Far",
+		"Aciklama": "Farlar göz kapağı için kullanılan kozmetik ürünleridir. Göz makyajının olmazsa olmazı haline gelmişlerdir. Oldukça geniş bir renk yelpazesine sahip olan farlar, hem günlük makyajda hem özel gün makyajlarında vazgeçilmez ürünler olmuşlardır. Göz farları değişik formlarda karşımıza çıkabilmektedirler. Genellikle kullanılan toz formundaki farlardır. Bunun yanında pres far, krem far, kalem far, köpük farlar da oldukça geniş bir kullanım alanına sahiptirler.",
+		"KullanimAlani": "Göz Kapakların da kullanılır.",
+		"RenkSecenekleri": "Simli, Mat, Pudralı.",
+		"BannerUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/farbanner.jpeg",
+		"LogoUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/faricon.png"
+	
+	},
+	
+	{
+		"Adi": "Allık (Rouge)",
+		"Aciklama": "Birbirinden farklı allık renkleri ve çeşitleri ile sizde makyajınızı ön plana çıkarabilir ve yüzünüze renk katabilirsiniz. Krem allık, toz allık ya da likit allık çeşitlerinden hangisi sizin için daha uygunsa ve rahat sürebiliyorsanız onu tercih etmelisiniz. Allık, allık fırçası ile sürülmektedir. Fakat krem allık gibi ürünleri parmaklarınızla da uygulayabilirsiniz.",
+		"KullanimAlani": "Yanaklarımız da kullanırız.",
+		"RenkSecenekleri": "Pembe, Bronz, Kahverengi, Toz Pembe.",
+		"BannerUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/allikbanner.jpeg",
+		"LogoUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/allikicon.png"
+		
+	},
+	
+	{
+		"Adi": "Aydınlatıcı (Highlighter)",
+		"Aciklama": "Aydınlatıcı, toz, stick, jel ve likit forma olabilen, ten makyajına daha ıslak, parlak ve aydınlık bir etki veren makyaj malzemesidir. Aydınlatıcı fırçası veya parmaklarla sürülebilen aydınlatıcılar, makyaja daha canlı ve enerjik bir hava katar.",
+		"KullanimAlani": "Elmacık kemiklerine, kaş kemiğine ve dudak üstünün ortasına kullanırız.",
+		"RenkSecenekleri": "Beyaz, Simli, Pudralı, Krem.",
+		"BannerUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/aydinlaticibanner.jpeg",
+		"LogoUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/aydinlaticiicon.png"
+		
+	},
+	
+	{
+		"Adi": "Bronzer",
+		"Aciklama": "Bronzer yani bronzlaştırıcı pudralar, cilde bronz bir görünüm vermek için kullanılan bir kozmetik üründür. Cilde bronzluk vermesinin dışında yüzü boyutlandırmak, gölgelendirmek ve cilt rengini ısıtmak için kullanılan bir üründür.",
+		"KullanimAlani": "Genellikle yüzün yüksek bölgelerine uygulanır.",
+		"RenkSecenekleri": "Kahverengi, Krem Rengi, Simli, Mat Renkler.",
+		"BannerUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/bronzerbanner.jpeg",
+		"LogoUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/bronzericon.png"
+		
+	},
+	
+	{
+		"Adi": "Eyeliner",
+		"Aciklama": "Eyeliner, kirpik diplerine çizgi çekmek için kullanılan bir tür göz kalemidir. Gözleri vurgulamak, bakışlara anlam katmak için kullanılır.",
+		"KullanimAlani": "Göz Kapakların da kullanırız.",
+		"RenkSecenekleri": "Siyah, Mavi, Beyaz, Pembe, Gri.",
+		"BannerUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/eyelinerbanner.jpg",
+		"LogoUrl": "https://raw.githubusercontent.com/sumeyyecakr/h5190066sumeyyecakir/main/resimler/eyelinericon.png"
+		
+	}
+
+]
