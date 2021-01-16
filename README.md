@@ -4,7 +4,7 @@
 ![appicon](https://github.com/sumeyyecakr/h5190066sumeyyecakir/blob/main/Screens/ic_launcher.png)
 
 
-<h2 id="Outputs">Outputs</h2>
+<h1 id="EkranGoruntuleri">Ekran Görüntüleri</h1>
 <p>
   <img height= "400"  src="https://github.com/sumeyyecakr/h5190066sumeyyecakir/blob/main/Screens/1.PNG" alt="SS1" />
   <img height= "400"  src="https://github.com/sumeyyecakr/h5190066sumeyyecakir/blob/main/Screens/2.PNG" alt="SS2" />
