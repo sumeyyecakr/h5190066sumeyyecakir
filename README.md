@@ -31,7 +31,7 @@ bulunmaktadır.
 ## Mimari Paket Yapısı
 ![Architecture](https://github.com/sumeyyecakr/h5190066sumeyyecakir/blob/main/Screens/mimari.png)
 
-License
+Lisans
 --------
 
 Copyright 2021 Sümeyye ÇAKIR.
