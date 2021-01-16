@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">H5190066_SumeyyeCakirFinal</string>
+    <string name="internet_baglantisiyok">İnternet Bağlantınız Yok!</string>
+    <string name="internet_baglantisigerekli">Uygulamayı kullanmak için internet gereklidir.</string>
+    <string name="ayarlara_gitme">Ayarlara git</string>
+    <string name="app_kapat">Kapat</string>
+    <string name="tiklama_adi">TIKLANAN ADI</string>
+    <string name="app_bekleyiniz">Lütfen, Bekleyiniz...</string>
+    <string name="app_cikma">Uygulamadan çıkmak istediğinize emin misiniz ?</string>
+    <string name="app_unlem">Dikkat !</string>
+    <string name="app_evet">EVET</string>
+    <string name="app_hayir">HAYIR</string>
+    <string name="gosterilcekekranmain">MainActivity</string>
+    <string name="gosterilcekekranliste">ListeActivity</string>
+
+
+
+</resources>

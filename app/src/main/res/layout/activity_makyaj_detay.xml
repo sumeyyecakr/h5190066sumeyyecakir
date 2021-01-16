@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MakyajDetayActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/imgKapakAlani"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dpayarikiyuz"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/txtBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dpayaron"
+                android:text="Başlık"
+                android:textColor="#FF0000"
+                android:textSize="@dimen/spayarotuz"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtKullanimAlani"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dpayaron"
+                android:text="Kullanım Alanı"
+                android:textSize="@dimen/spayaryirmi" />
+
+            <TextView
+                android:id="@+id/txtRenkSecenegi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dpayaron"
+                android:text="Renk Seçeneklerı"
+                android:textSize="@dimen/spayaryirmi" />
+
+            <TextView
+                android:id="@+id/txtBaslik2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dpayaron"
+                android:text="Makyaj Açıklama"
+                android:textColor="@color/red"
+                android:textSize="@dimen/spayarotuz"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtAciklama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="acıklama" />
+
+        </LinearLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

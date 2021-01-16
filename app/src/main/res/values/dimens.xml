@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dpayaronalti">16dp</dimen>
+    <dimen name="dpayaryuzaltmis">160dp</dimen>
+    <dimen name="dpayarsifir">0dp</dimen>
+    <dimen name="dpayarucyuzaltmisbes">365dp</dimen>
+    <dimen name="dpayarucyuzkirksekiz">348dp</dimen>
+    <dimen name="dpayarelli">50dp</dimen>
+    <dimen name="dpayarikiyuz">200dp</dimen>
+    <dimen name="dpayaron">10dp</dimen>
+    <dimen name="spayarotuz">30sp</dimen>
+    <dimen name="spayaryirmi">20sp</dimen>
+    <dimen name="dpayaryuz">100dp</dimen>
+    <dimen name="dpayarotuzdort">34dp</dimen>
+    <dimen name="dpayarsekiz">8dp</dimen>
+    <dimen name="dpayaryuzyetmisbir">171dp</dimen>
+    <dimen name="dpayaryuzyetmisiki">172dp</dimen>
+    <dimen name="dpayaroniki">12dp</dimen>
+
+
+
+</resources>
