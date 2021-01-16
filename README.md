@@ -1,6 +1,6 @@
 # Makyaj Malzemeleri Uygulaması
 
-Uygulama Logosu
+# Uygulama Logosu
 ![appicon](https://github.com/sumeyyecakr/h5190066sumeyyecakir/blob/main/Screens/ic_launcher.png)
 
 
