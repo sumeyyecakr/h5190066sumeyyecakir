@@ -1,11 +1,12 @@
 # Makyaj Malzemeleri Uygulaması
 
-# Uygulama Logosu
-![appicon](https://github.com/sumeyyecakr/h5190066sumeyyecakir/blob/main/Screens/ic_launcher.png)
-
 <p align="center">
 <img src="https://github.com/sumeyyecakr/h5190066sumeyyecakir/blob/main/Screens/kapakresmi.jpg"/>
 </p>
+
+# Uygulama Logosu
+![appicon](https://github.com/sumeyyecakr/h5190066sumeyyecakir/blob/main/Screens/ic_launcher.png)
+
 
 <h1 id="EkranGoruntuleri">Ekran Görüntüleri</h1>
 <p>
