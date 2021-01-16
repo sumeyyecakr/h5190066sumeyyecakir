@@ -13,7 +13,9 @@
   <img height= "250"  src="https://github.com/sumeyyecakr/h5190066sumeyyecakir/blob/main/Screens/5.PNG" alt="SS5" />
 
 </p>
-Bu uygulama Makyaj Malzemelerinin listelenmesini sağlamaktadır. Her malzemenin hangi bölgeye nasıl uygulandığını,  hangi çeşitleri, seçenekleri olduğunu da listelemektedir. 
+Bu uygulama Makyaj Malzemelerinin listelenmesini sağlamaktadır. Her malzemenin hangi bölgeye nasıl uygulandığını,  hangi çeşitleri, 
+nasıl bir seçenekleri olduğunu da listelemektedir. Seçtiğiniz malzemenin içeriğine girildiğinde her malzeme hakkında açıklamalar
+bulunmaktadır.
 
 ## Uygulamada Kullanılan Araçlar 🛠
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
