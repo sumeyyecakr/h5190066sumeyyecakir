@@ -26,7 +26,11 @@ bulunmaktadır.
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 <li><a href="https://github.com/ReactiveX/RxAndroid">RxAndroid</a></li>
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
+<li><a href="https://guides.codepath.com/android/using-the-recyclerview">RecyclerView</a></li>
+<li><a href="https://developer.android.com/guide/topics/ui/dialogs">AlertDialog</a></li>
 <li><a href="https://square.github.io/retrofit/">Retrofit</a></li>
+
+
 
 ## Mimari Paket Yapısı
 ![Architecture](https://github.com/sumeyyecakr/h5190066sumeyyecakir/blob/main/Screens/mimari.png)
